@@ -1,0 +1,76 @@
+nav img {
+    width: 75px;
+}
+
+#elsomondat {
+    padding-top: 100px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#diagramsz {
+    padding-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#KEPELSO img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#HEADER {
+    background-image: url(https://blackvelvetviphostlasvegas.com/wp-content/uploads/2015/09/Batman-copy1.jpg);
+    width: 100%;
+    height: 100px
+}
+
+#HEADERSZOV {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+
+
+
+
+
+#TABLA{
+   font-size: xx-large;
+   margin: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 150px;
+   text-align: center;
+
+}
+ 
+
+table{
+    width: 50%;
+}
+
+
+
+td img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.cim {
+    opacity: 0.6;
+    transition: 0.7;
+}
+
+.cim:hover {opacity: 1;}
